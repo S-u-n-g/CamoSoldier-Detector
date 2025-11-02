@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+torch
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
